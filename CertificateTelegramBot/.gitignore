@@ -1,0 +1,5 @@
+appsettings.json
+error_log.txt
+*.db
+*.db-shm
+*.db-wal
